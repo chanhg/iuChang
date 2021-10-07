@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Yêu em nhiều nhiều 😘😘',
     messDesc: 'Miu Miu',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://https://www.facebook.com/profile.php?id=100033587973023' 
 }
