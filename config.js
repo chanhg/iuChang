@@ -5,8 +5,8 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy',
-    desc: 'Chúng ta lại yêu nhau nhé',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
+    desc: 'Chúng ta lại yêu nhau nhé!',
     btnYes: 'OK luôn <33',
     btnNo: 'Không :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao Thanh lại cứ yêu Chang  <3',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Yêu em nhiều nhiều 😘😘',
     messDesc: 'Miu Miu',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://https://www.facebook.com/profile.php?id=100033587973023' 
+    messLink: 'https://www.facebook.com/profile.php?id=100033587973023' 
 }
